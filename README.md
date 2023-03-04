@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Programming for fun and life efficiency
+Programming for fun and productivity
 
 <!--
 **ChandlerVer5/chandlerver5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
