@@ -2,6 +2,9 @@
 
 Programming for fun and productivity
 
+I'm always learning new things and exploring new technologies, so my skillset is constantly evolving and expanding.
+
+
 <!--
 **ChandlerVer5/chandlerver5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
