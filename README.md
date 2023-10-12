@@ -1,4 +1,4 @@
-### Hi there <img src='./assets/Hi.gif' alt='Hi' width="24"/>
+Hi there <img src="./assets/Hi.gif" alt="Hi" width="24"/>
 
 Programming for fun and productivity
 
