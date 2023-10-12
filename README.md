@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
 Programming for fun and productivity
 
