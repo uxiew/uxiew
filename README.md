@@ -1,6 +1,6 @@
 Hi there <img src="./assets/Hi.gif" alt="Hi" width="24"/>
 
-Programming for fun and productivity
+Programming for fun and productivity. like star all the way. Be Happy!
 
 I'm always learning new things and exploring new technologies, so my skillset is constantly evolving and expanding.
 
