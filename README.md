@@ -4,6 +4,7 @@ Programming for fun and productivity. like star all the way. Be Happy!
 
 I'm always learning new things and exploring new technologies, so my skillset is constantly evolving and expanding.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,dart,c,rust)](https://skillicons.dev)
 
 <!--
 **ChandlerVer5/chandlerver5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
